@@ -1,0 +1,23 @@
+Please select a menu option:
+1: Binary to decimal
+2: Decimal to binary
+3: Binary Addition
+4: Binary subtraction
+5: Whole Addition
+6: Whole Subtraction
+7: Exit
+Select: 1
+WARNING: NO VALIDATION; PLEASE FOLLOW INSTRUCTION
+Please enter a binary value: 10110
+User Binary Input: 10110
+Decimal Result: 3
+Please select a menu option:
+1: Binary to decimal
+2: Decimal to binary
+3: Binary Addition
+4: Binary subtraction
+5: Whole Addition
+6: Whole Subtraction
+7: Exit
+Select: 
+Process finished with exit code -1
